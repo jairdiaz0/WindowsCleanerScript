@@ -15,6 +15,6 @@
 - Opción para vaciar la papelera de reciclaje.
 
 ## Uso
-1. Descarga el archivo `cleaner.bat` desde este repositorio.
+1. Descarga el archivo `clean.bat` desde este repositorio.
 2. Haz clic derecho en el archivo descargado y selecciona "Ejecutar como administrador".
 3. Sigue las instrucciones en pantalla para limpiar los archivos innecesarios.
